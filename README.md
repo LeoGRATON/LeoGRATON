@@ -19,9 +19,9 @@
 
 ### 👅 Languages
 
-![HTML](https://img.shields.io/badge/HTML-%FF5733.svg?style=for-the-badge&logo=html5&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS-%2965F1.svg?style=for-the-badge&logo=css3&logoColor=black)
-![SASS](https://img.shields.io/badge/SASS-%CF649A.svg?style=for-the-badge&logo=sass&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-2965F1?style=for-the-badge&logo=css3&logoColor=black)
+![SASS](https://img.shields.io/badge/SASS-CF649A?style=for-the-badge&logo=sass&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🎨 Design
@@ -39,7 +39,7 @@
 
 ### 📱 UI
 
-![AdobeSuite](https://img.shields.io/badge/AdobeSuite-%F81000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+![AdobeSuite](https://img.shields.io/badge/AdobeSuite-F81000?style=for-the-badge&logo=adobe&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Bulma](https://img.shields.io/badge/bulma-%2300D1B2.svg?style=for-the-badge&logo=bulma&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/tailwind_css-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
